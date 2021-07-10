@@ -1,6 +1,6 @@
 {
   "name": "shadowpicture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add awesome shadows for the non-designer",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/MoustaphaMANGANE01/shadowpictury/issues"
   },
-  "homepage": "https://github.com/MoustaphaMANGANE01/shadowpictury#readme"
+  "homepage": "https://github.com/MoustaphaMANGANE01/shadowpictury#readme",
+  "dependencies": {
+    "shadowizard": "^1.0.4"
+  }
 }
