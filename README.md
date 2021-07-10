@@ -12,7 +12,7 @@ Then...
 import { shadowpicture } from 'shadowpicture'
 
 shadowpicture({
-  shadow_type: 'soft'
+  shadow_type: 'soft',
   padding:false
 });
 
